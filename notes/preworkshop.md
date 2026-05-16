@@ -90,7 +90,7 @@ Using florence fennel lms tool
 MySQL installation: installed homebrew, set path and installed mysql from terminal; 
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-- copy and run output to set path
+copy and run output to set path
 brew install mysql
 brew services start mysql
 mysql --version
